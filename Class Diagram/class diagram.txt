@@ -1,1 +1,2 @@
 our class diagram will represent all relationships between all classes
+#link to it on trello -->  https://trello.com/c/68Cxwa5y
