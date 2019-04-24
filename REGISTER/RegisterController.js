@@ -22,5 +22,4 @@ userController.register = async (req, res, next) => {
     }
 
 }
-
 module.exports = userController;
